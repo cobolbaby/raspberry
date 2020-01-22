@@ -1,0 +1,19 @@
+{
+  "name": "showcase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "egg": "^2.26.0",
+    "egg-bin": "^4.14.1",
+    "egg-redis": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "egg-bin dev",
+    "debug": "egg-bin debug"
+  },
+  "author": "",
+  "license": "ISC"
+}
